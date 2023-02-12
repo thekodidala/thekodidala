@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vamshi
 - 👀 I’m interested to know about new things.
-- 🌱 I’m currently learning Java,python,html,css.
+- 🌱 I’m currently learning C++,Java,python,html,css.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me..
 
