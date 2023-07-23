@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Vamshi
-- 👀 I’m interested to know about new things.
-- 🌱 I’m currently learning C++,Java,python,html,css.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me..
+- 👀 I’m interested 
+- 🌱 I’m currently learning Web Development and Deep Learning.
+- 💞️ I’m looking to collaborate on any projects that dive deep into implementations of various technical aspects.
+- 📫 How to reach me... I guess, write me a good mail at vamshivardhankodidala@gmail.com 
 
 <!---
 thekodidala/thekodidala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
