@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vamshi
-- 👀 I’m interested to know new technologies..
+- 👀 I’m passionate to learn technologies..
 - 🌱 I’m currently learning SAP ABAP and BTP.
 - 💞️ I’m looking to collaborate on any projects that dive deep into implementations of various technical aspects.
 - 📫 How to reach me ?.. Write me a good mail at vamshivardhankodidala@gmail.com 
